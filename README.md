@@ -58,7 +58,7 @@ Hey there! I'm HariKiran, a Data Wizard with a knack for turning data into magic
 
 ## ✨ Let's Connect
 - Email: [harikiran.a@mycvtalent.com](mailto:harikiran.a@mycvtalent.com)
-- LinkedIn: [HariKiran Aluri](https://www.linkedin.com/in/harikiran-aluri)
+- LinkedIn: [HariKiran Aluri](http://linkedin.com/in/harialuri)
 
 ![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)
